@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid rgba(232, 113, 230, 0.711); 
   border-radius: 50% !important;
 }
 
@@ -54,26 +54,26 @@
   color: black;
 }
 
-.linkedin {
+/* .linkedin {
   color: #0077b5;
-}
+} */
 
-.angellist {
+/* .angellist {
   color: grey;
-}
+} */
 
 .icon-btn:hover {
   transform: scale(1.10);
   color: #FFFFFF;
 }
 
-.linkedin:hover {
+/* .linkedin:hover {
   background-color: #0077b5;
-}
+} */
 
-.angellist:hover {
+/* .angellist:hover {
   background-color: grey;
-}
+} */
 
 .github:hover {
   background-color: black;
@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #00796b;
+  color: #ed8ded;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #4cb3eb;
   background-color: white;
 }
 /* main body */
@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #e67bee;
 }
 
 /* main blockqoute */
@@ -237,7 +237,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(16, 202, 56);
+  color: rgb(87, 199, 227);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #ffa7fb repeat;
   position: relative;
 }
 
@@ -546,10 +546,10 @@ small {
   color: #666 !important;
 }
 
-/* main .teal-text */
+/* main .pink-text */
 
-.teal-text {
-  color: #008073 !important;
+.pink-text {
+  color: #770663 !important;
 }
 
 /* .teal-text {
@@ -558,8 +558,8 @@ small {
 
 /* .teal */
 
-.teal {
-  background-color: #008073 !important;
+.pink {
+  background-color: #800077 !important;
 }
 
 /* .teal {
