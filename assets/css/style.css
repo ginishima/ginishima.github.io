@@ -528,13 +528,17 @@ small {
 /* main .lightblue-text */
 
 .lightblue-text {
-  color: #56b4ea !important;
+  color: hsl(202, 78%, 63%) !important;
 }
 
 /* .teal */
 
 .pink {
   background-color: #e96ce0 !important;
+}
+
+.lightblue {
+  background-color: hsl(202, 78%, 63%) !important;
 }
 
 /* .teal {
